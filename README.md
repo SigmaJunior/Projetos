@@ -11,15 +11,15 @@ Análise Descritiva, Análise de médias (ANOVA) e gráficos de boxplot para ver
 ## [Estudo de médias para cultivares com e sem casca e Análise Multivariada](https://github.com/SigmaJunior/Projeto-Quimica2)
 Análise de médias, gráficos de boxplot, teste de correlação e procedimentos não paramétricos como o PCA (Análise de Componentes Principais), para cultivares de pêssegos em 8 analitos diferentes.
 
-## [Estudo do risco alimentar em crianças, um estudo e comparações dos escores IRRD e EBAI](https://github.com/SigmaJunior/risco-alimentar)
+## [Estudo do risco alimentar em crianças, um estudo e comparações dos escores IRRD e EBAI](https://github.com/SigmaJunior/Projeto_Nutricao)
 Análise descritiva, gráficos Boxplot, teste de associação, correlação, teste de médias (ANOVA e Kruskall), teste de Mann Whitney e teste Fisher considerando as variáveis Sexo, Introdução Alimentar e Indicação médica para comparar os resultados nos escores IRRD e EBAI.
 
 
 ## Observação
- <p align="center"><img align="center" src="https://github.com/VitorBSP/ProjetosSigma/blob/main/Hello_Glasses.gif" height="210px" width="350"/></p>
+ <p align="center"><img align="center" src="https://github.com/SigmaJunior/Projetos/blob/main/Hello_Glasses.gif" height="210px" width="350"/></p>
 
  
 <b> Ideia do colaborador: </b> [Alisson Rosa](https://github.com/AlissonRP) 
  
  
-Para respeitar a LGPD, estão apenas listados os projetos, mas sem acessos ao para não violar a lei.
+Para respeitar a LGPD, estão apenas listados os projetos, mas sem acessos aos bancos de dados e scripts.
